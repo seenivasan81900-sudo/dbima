@@ -8,11 +8,11 @@ const menuData = {
       contents: [
         {
           text: "BTS Métiers de l'Audiovisuel",
-          url: "/courses/bts-gestion-de-production.html",
+          url: "../courses/bts-gestion-de-production.html",
         },
         {
           text: "BTS Métiers de l'Audiovisuel – Montage et Post-production",
-          url: "/courses/bts-metiers-audiovisuel-montage-post-production.html",
+          url: "../courses/bts-metiers-audiovisuel-montage-post-production.html",
         },
       ],
     },
@@ -21,15 +21,15 @@ const menuData = {
       contents: [
         {
           text: "European Bachelor of Arts in Cinema and Audiovisual",
-          url: "/courses/european-bachelor-cinema-audiovisual.html",
+          url: "../courses/european-bachelor-cinema-audiovisual.html",
         },
         {
           text: "European Master of Arts in Cinema and Audiovisual",
-          url: "/courses/european-master-cinema-audiovisual.html",
+          url: "../courses/european-master-cinema-audiovisual.html",
         },
         {
           text: "Elite Diploma In Cinema & Television",
-          url: "/courses/elite-diploma-cinema-television.html",
+          url: "../courses/elite-diploma-cinema-television.html",
         },
       ],
     },
@@ -38,7 +38,7 @@ const menuData = {
       contents: [
         {
           text: "ONE-MONTH FILMMAKING PROGRAM",
-          url: "/courses/one-month-filming-program.html",
+          url: "../courses/one-month-filming-program.html",
         },
         { text: "Art & Culture", url: "" },
         { text: "Erasmus Plus PROGRAM", url: "" },
@@ -50,7 +50,7 @@ const menuData = {
       contents: [
         {
           text: "Online Scriptwriting for Cinema and Television",
-          url: "/courses/online-scriptwriting-cinema-television.html",
+          url: "../courses/online-scriptwriting-cinema-television.html",
         },
       ],
     },
